@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hallo, ich bin Julius!
+Ich studiere Kommunikationswissenschaft & Philosophie an der FSU Jena.  
+Interessiert an Medien, Gesellschaft, Forschung und KI.
 
-<!--
-**hur1et/hur1et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 **Aktuelle Projekte:**  
+- 📖 Forschung zur politischen Psychologie & Wahlverhalten  
+- 📰 Entwicklung einer KI-gestützten Plattform für Lokaljournalismus  
+- 📊 Datenanalyse & wissenschaftliches Arbeiten mit R & LaTeX  
 
-Here are some ideas to get you started:
+💡 **Skills & Interessen:**  
+📝 Wissenschaftliches Schreiben & Journalismus  
+📊 Datenanalyse mit R & Statistik  
+📚 Soziologische & philosophische Theorien  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **So kannst du mich erreichen:**  
+[LinkedIn](https://www.linkedin.com/in/julius-weiske-b56161339/)
