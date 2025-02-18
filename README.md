@@ -1,5 +1,5 @@
 ### 👋 Hallo, ich bin Julius!
-Ich studiere Kommunikationswissenschaft & Philosophie an der FSU Jena.  
+Ich studiere Kommunikationswissenschaft, Soziologie & Psychologie an der FSU Jena.  
 Interessiert an Medien, Gesellschaft, Forschung und KI.
 
 📚 **Aktuelle Projekte:**  
